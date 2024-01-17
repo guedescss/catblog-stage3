@@ -34,4 +34,4 @@ O projeto consiste em compartilhar informações interessantes sobre gatos, ofer
 
 - [Acesse o Projeto online](https://guedescss.github.io/catblog-stage3/)
 
-Feito by SeuNome :wave:
+Feito by GuedesCSS :wave:
